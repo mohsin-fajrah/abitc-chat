@@ -1,0 +1,115 @@
+{
+  "CONTACT_PANEL": {
+    "NOT_AVAILABLE": "Müsait değil",
+    "EMAIL_ADDRESS": "E-posta adresi",
+    "PHONE_NUMBER": "Telefon numarası",
+    "COPY_SUCCESSFUL": "Panoya başarıyla kopyalandı",
+    "COMPANY": "Şirket",
+    "LOCATION": "Yer",
+    "CONVERSATION_TITLE": "Sohbet Ayrıntıları",
+    "BROWSER": "Tarayıcı",
+    "OS": "İşletim sistemi",
+    "INITIATED_FROM": "Başlatıldı",
+    "INITIATED_AT": "Başlatıldı",
+    "IP_ADDRESS": "IP Adresi",
+    "CONVERSATIONS": {
+      "NO_RECORDS_FOUND": "Bu kişiyle ilişkilendirilmiş önceki görüşme yok.",
+      "TITLE": "Önceki Sohbetler"
+    },
+    "CUSTOM_ATTRIBUTES": {
+      "TITLE": "Özel Nitelikler"
+    },
+    "LABELS": {
+      "TITLE": "Konuşma Etiketleri",
+      "MODAL": {
+        "TITLE": "İçin etiketler",
+        "ACTIVE_LABELS": "Sohbete eklenen etiketler",
+        "INACTIVE_LABELS": "Hesapta bulunan etiketler",
+        "REMOVE": "Etiketi kaldırmak için X simgesine tıklayın",
+        "ADD": "Etiketi eklemek için + simgesine tıklayın",
+        "UPDATE_BUTTON": "Etiketleri güncelle",
+        "UPDATE_ERROR": "Etiketler güncellenemedi, tekrar deneyin."
+      },
+      "NO_LABELS_TO_ADD": "Hesapta tanımlanmış başka etiket yok.",
+      "NO_AVAILABLE_LABELS": "Bu görüşmeye eklenen etiket yok."
+    },
+    "MUTE_CONTACT": "Konuşmayı Sessize Al",
+    "UNMUTE_CONTACT": "Konuşmanın Sesini Aç",
+    "MUTED_SUCCESS": "Bu konuşma 6 saatliğine sessize alınır",
+    "UNMUTED_SUCCESS": "Bu görüşmenin sesi kapatıldı",
+    "SEND_TRANSCRIPT": "Transkript Gönder",
+    "EDIT_LABEL": "Düzenle"
+  },
+  "EDIT_CONTACT": {
+    "BUTTON_LABEL": "Kişiyi Düzenle",
+    "TITLE": "Kişiyi Düzenle",
+    "DESC": "İletişim bilgilerini düzenleyin",
+    "FORM": {
+      "SUBMIT": "Yolla",
+      "CANCEL": "İptal Et",
+      "AVATAR": {
+        "LABEL": "İletişim Avatarı"
+      },
+      "NAME": {
+        "PLACEHOLDER": "Kişinin tam adını girin",
+        "LABEL": "Ad Soyad"
+      },
+      "BIO": {
+        "PLACEHOLDER": "Kişinin biyografisini girin",
+        "LABEL": "Biyografi"
+      },
+      "EMAIL_ADDRESS": {
+        "PLACEHOLDER": "Kişinin e-posta adresini girin",
+        "LABEL": "E-posta adresi"
+      },
+      "PHONE_NUMBER": {
+        "PLACEHOLDER": "Kişinin telefon numarasını girin",
+        "LABEL": "Telefon numarası"
+      },
+      "LOCATION": {
+        "PLACEHOLDER": "Kişinin konumunu girin",
+        "LABEL": "Yer"
+      },
+      "COMPANY_NAME": {
+        "PLACEHOLDER": "Şirket adını girin",
+        "LABEL": "Şirket Adı"
+      },
+      "SOCIAL_PROFILES": {
+        "FACEBOOK": {
+          "PLACEHOLDER": "Facebook kullanıcı adını girin",
+          "LABEL": "Facebook\n"
+        },
+        "TWITTER": {
+          "PLACEHOLDER": "Twitter kullanıcı adını girin",
+          "LABEL": "Twitter"
+        },
+        "LINKEDIN": {
+          "PLACEHOLDER": "LinkedIn kullanıcı adını girin",
+          "LABEL": "LinkedIn\n"
+        },
+        "GITHUB": {
+          "PLACEHOLDER": "Github kullanıcı adını girin",
+          "LABEL": "Github"
+        }
+      }
+    },
+    "SUCCESS_MESSAGE": "Kişi başarıyla güncellendi",
+    "CONTACT_ALREADY_EXIST": "Bu e-posta adresi başka bir kişi için kullanılıyor.",
+    "ERROR_MESSAGE": "Kişi güncellenirken bir hata oluştu, lütfen tekrar deneyin"
+  },
+  "CONTACTS_PAGE": {
+    "HEADER": "Kişiler",
+    "SEARCH_BUTTON": "Arama",
+    "SEARCH_INPUT_PLACEHOLDER": "Kişileri arayın",
+    "LIST": {
+      "LOADING_MESSAGE": "Kişiler yükleniyor ...",
+      "404": "Aramanızla eşleşen kişi yok 🔍",
+      "TABLE_HEADER": [
+        "İsim",
+        "Telefon numarası",
+        "Konuşmalar",
+        "Son Görüşülen"
+      ]
+    }
+  }
+}

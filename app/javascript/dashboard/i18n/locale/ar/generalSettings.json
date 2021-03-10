@@ -1,0 +1,75 @@
+{
+  "GENERAL_SETTINGS": {
+    "TITLE": "إعدادات الحساب",
+    "SUBMIT": "تحديث الإعدادات",
+    "BACK": "العودة",
+    "UPDATE": {
+      "ERROR": "تعذر تحديث الإعدادات، الرجاء المحاولة مرة أخرى!",
+      "SUCCESS": "تم تحديث إعدادات الحساب بنجاح"
+    },
+    "FORM": {
+      "ERROR": "الرجاء إصلاح الأخطاء في الفورم",
+      "GENERAL_SECTION": {
+        "TITLE": "الإعدادات العامة",
+        "NOTE": ""
+      },
+      "NAME": {
+        "LABEL": "اسم الحساب",
+        "PLACEHOLDER": "اسم الحساب الخاص بك",
+        "ERROR": "الرجاء إدخال اسم حساب صحيح"
+      },
+      "LANGUAGE": {
+        "LABEL": "لغة الموقع (تجريبي)",
+        "PLACEHOLDER": "اسم الحساب الخاص بك",
+        "ERROR": ""
+      },
+      "DOMAIN": {
+        "LABEL": "نطاق البريد الإلكتروني الوارد",
+        "PLACEHOLDER": "النطاق الذي ستتلقى عليه رسائل البريد الإلكتروني",
+        "ERROR": ""
+      },
+      "SUPPORT_EMAIL": {
+        "LABEL": "البريد الإلكتروني للدعم الفني",
+        "PLACEHOLDER": "عنوان البريد الإلكتروني الخاص باستقبال رسائل الدعم الفني",
+        "ERROR": ""
+      },
+      "AUTO_RESOLVE_DURATION": {
+        "LABEL": "Number of days after a ticket should auto resolve if there is no activity",
+        "PLACEHOLDER": "30",
+        "ERROR": "Please enter a valid auto resolve duration (minimum 1 day)"
+      },
+      "FEATURES": {
+        "INBOUND_EMAIL_ENABLED": "الاستمرار في المحادثة عبر رسائل البريد الإلكتروني مفعّل لحسابك.",
+        "CUSTOM_EMAIL_DOMAIN_ENABLED": "يمكنك تلقي رسائل البريد الإلكتروني في النطاق المخصص الخاص بك الآن."
+      }
+    },
+    "UPDATE_CHATWOOT": "An update %{latestChatwootVersion} for Chatwoot is available. Please update your instance."
+  },
+  "FORMS": {
+    "MULTISELECT": {
+      "ENTER_TO_SELECT": "Press enter to select",
+      "ENTER_TO_REMOVE": "Press enter to remove",
+      "SELECT_ONE": "Select one"
+    }
+  },
+  "NOTIFICATIONS_PAGE": {
+    "HEADER": "الإشعارات",
+    "MARK_ALL_DONE": "Mark All Done",
+    "LIST": {
+      "LOADING_MESSAGE": "Loading notifications...",
+      "404": "No Notifications",
+      "TABLE_HEADER": [
+        "الاسم",
+        "رقم الهاتف",
+        "المحادثات",
+        "Last Contacted"
+      ]
+    },
+    "TYPE_LABEL": {
+      "conversation_creation": "New conversation",
+      "conversation_assignment": "Conversation Assigned",
+      "assigned_conversation_new_message": "New Message",
+      "conversation_mention": "Mention"
+    }
+  }
+}

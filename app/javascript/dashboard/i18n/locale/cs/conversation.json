@@ -1,0 +1,78 @@
+{
+  "CONVERSATION": {
+    "404": "Vyberte prosím konverzaci z levého panelu",
+    "NO_MESSAGE_1": "Ale ne! Vypadá to, že ve vaší schránce nejsou žádné zprávy od zákazníků.",
+    "NO_MESSAGE_2": " pro odeslání zprávy na vaši stránku!",
+    "NO_INBOX_1": "Hola! Zdá se, že jste ještě nepřidali žádné schránky.",
+    "NO_INBOX_2": " začít",
+    "NO_INBOX_AGENT": "Uh Oh! Vypadá to, že nejste součástí žádné schránky. Obraťte se na správce",
+    "SEARCH_MESSAGES": "Hledat zprávy v konverzacích",
+    "SEARCH": {
+      "TITLE": "Hledat zprávy",
+      "LOADING_MESSAGE": "Načítám data...",
+      "PLACEHOLDER": "Zadejte jakýkoli text k hledání",
+      "NO_MATCHING_RESULTS": "Vašemu vyhledávání neodpovídají žádné zprávy."
+    },
+    "UNREAD_MESSAGES": "Nepřečtené zprávy",
+    "UNREAD_MESSAGE": "Nepřečtená zpráva",
+    "CLICK_HERE": "Klikněte zde",
+    "LOADING_INBOXES": "Načítání krabic",
+    "LOADING_CONVERSATIONS": "Načítání konverzací",
+    "CANNOT_REPLY": "Nemůžete odpovědět z důvodu",
+    "24_HOURS_WINDOW": "24 hodinové omezení okna",
+    "LAST_INCOMING_TWEET": "Odpovídáte na poslední příchozí tweet",
+    "REPLYING_TO": "Odpovídáte uživateli:",
+    "REMOVE_SELECTION": "Odstranit výběr",
+    "DOWNLOAD": "Stáhnout",
+    "UPLOADING_ATTACHMENTS": "Nahrávání příloh...",
+    "NO_RESPONSE": "No response",
+    "HEADER": {
+      "RESOLVE_ACTION": "Vyřešit",
+      "REOPEN_ACTION": "Znovu otevřít",
+      "OPEN": "Více",
+      "CLOSE": "Zavřít",
+      "DETAILS": "Podrobnosti"
+    },
+    "FOOTER": {
+      "MSG_INPUT": "Shift + zadejte pro nový řádek. Začněte '/' pro výběr zrušené odpovědi.",
+      "PRIVATE_MSG_INPUT": "Shift + zadejte pro nový řádek. Toto bude viditelné pouze pro agenty"
+    },
+    "REPLYBOX": {
+      "REPLY": "Odpověď",
+      "PRIVATE_NOTE": "Soukromá poznámka",
+      "SEND": "Poslat",
+      "CREATE": "Přidat poznámku",
+      "TWEET": "Tweet",
+      "TIP_FORMAT_ICON": "Show rich text editor",
+      "TIP_EMOJI_ICON": "Show emoji selector",
+      "TIP_ATTACH_ICON": "Attach files",
+      "ENTER_TO_SEND": "Enter to send"
+    },
+    "VISIBLE_TO_AGENTS": "Soukromá poznámka: Viditelné pouze pro vás a váš tým",
+    "CHANGE_STATUS": "Stav konverzace byl změněn",
+    "CHANGE_AGENT": "Konverzace pověřená osoba změněna",
+    "SENT_BY": "Odeslal:",
+    "ASSIGNMENT": {
+      "SELECT_AGENT": "Vybrat agenta",
+      "REMOVE": "Odebrat",
+      "ASSIGN": "Přiřadit"
+    }
+  },
+  "EMAIL_TRANSCRIPT": {
+    "TITLE": "Poslat přepis konverzace",
+    "DESC": "Poslat kopii přepisu konverzace na zadanou e-mailovou adresu",
+    "SUBMIT": "Odeslat",
+    "CANCEL": "Zrušit",
+    "SEND_EMAIL_SUCCESS": "Přepis chatu byl úspěšně odeslán",
+    "SEND_EMAIL_ERROR": "Došlo k chybě, zkuste to prosím znovu",
+    "FORM": {
+      "SEND_TO_CONTACT": "Poslat přepis zákazníkovi",
+      "SEND_TO_AGENT": "Zašlete přepis přidělenému agentovi",
+      "SEND_TO_OTHER_EMAIL_ADDRESS": "Poslat přepis na jinou e-mailovou adresu",
+      "EMAIL": {
+        "PLACEHOLDER": "Zadejte e-mailovou adresu",
+        "ERROR": "Zadejte prosím platnou e-mailovou adresu"
+      }
+    }
+  }
+}

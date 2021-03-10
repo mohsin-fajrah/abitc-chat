@@ -1,0 +1,78 @@
+{
+  "CONVERSATION": {
+    "404": "Ole hyvä ja valitse keskustelu vasemmasta paneelista",
+    "NO_MESSAGE_1": "Voi voi! Näyttää siltä, että postilaatikossasi ei ole viestejä.",
+    "NO_MESSAGE_2": " jotta voit lähettää viestin sivullesi!",
+    "NO_INBOX_1": "Hola! Näyttää siltä, että et ole vielä lisännyt yhtään saapuneet-kansiota.",
+    "NO_INBOX_2": " päästäksesi alkuun",
+    "NO_INBOX_AGENT": "Voi ei! Näyttää siltä, että et kuulu mihinkään saapuneet-kansioon. Ota yhteyttä työnantajaasi",
+    "SEARCH_MESSAGES": "Etsi viestejä keskusteluissa",
+    "SEARCH": {
+      "TITLE": "Etsi viestejä",
+      "LOADING_MESSAGE": "Rouskutetaan dataa...",
+      "PLACEHOLDER": "Kirjoita mikä tahansa teksti etsiäksesi viestejä",
+      "NO_MATCHING_RESULTS": "Hakuparametreja vastaavia viestejä ei ole."
+    },
+    "UNREAD_MESSAGES": "Lukemattomat viestit",
+    "UNREAD_MESSAGE": "Lukematon viesti",
+    "CLICK_HERE": "Klikkaa tästä",
+    "LOADING_INBOXES": "Ladataan saapuneet-kansioita",
+    "LOADING_CONVERSATIONS": "Ladataan keskusteluita",
+    "CANNOT_REPLY": "Et voi vastata, sillä",
+    "24_HOURS_WINDOW": "24h vastausikkuna",
+    "LAST_INCOMING_TWEET": "Olet vastaamassa viimeisenä tulevaan twiittiin",
+    "REPLYING_TO": "Olet vastaamassa:",
+    "REMOVE_SELECTION": "Poista valinnat",
+    "DOWNLOAD": "Lataa",
+    "UPLOADING_ATTACHMENTS": "Ladataan liitteitä...",
+    "NO_RESPONSE": "No response",
+    "HEADER": {
+      "RESOLVE_ACTION": "Ratkaise",
+      "REOPEN_ACTION": "Uudelleenavaa",
+      "OPEN": "Lisää",
+      "CLOSE": "Sulje",
+      "DETAILS": "tiedot"
+    },
+    "FOOTER": {
+      "MSG_INPUT": "Vaihto + enter siirtyäksesi uudelle riville. Aloita '/' valitaksesi tallennettu vastaus.",
+      "PRIVATE_MSG_INPUT": "Vaihto + enter siirtyäksesi uudelle riville. Tämä näkyy vain edustajille"
+    },
+    "REPLYBOX": {
+      "REPLY": "Vastaa",
+      "PRIVATE_NOTE": "Sisäinen merkintä",
+      "SEND": "Lähetä",
+      "CREATE": "Lisää muistiinpano",
+      "TWEET": "Twiittaa",
+      "TIP_FORMAT_ICON": "Show rich text editor",
+      "TIP_EMOJI_ICON": "Show emoji selector",
+      "TIP_ATTACH_ICON": "Attach files",
+      "ENTER_TO_SEND": "Enter to send"
+    },
+    "VISIBLE_TO_AGENTS": "Yksityinen huomautus: Näkyy vain sinulle ja tiimillesi",
+    "CHANGE_STATUS": "Keskustelun tila muutettu",
+    "CHANGE_AGENT": "Keskustelun vastaanottaja vaihdettu",
+    "SENT_BY": "Lähettäjä:",
+    "ASSIGNMENT": {
+      "SELECT_AGENT": "Valitse edustaja",
+      "REMOVE": "Poista",
+      "ASSIGN": "Delegoi"
+    }
+  },
+  "EMAIL_TRANSCRIPT": {
+    "TITLE": "Lähetä keskustelu",
+    "DESC": "Lähetä kopio keskustelu määritettyyn sähköpostiosoitteeseen",
+    "SUBMIT": "Lähetä",
+    "CANCEL": "Peruuta",
+    "SEND_EMAIL_SUCCESS": "Chat-keskustelu on lähetetty onnistuneesti",
+    "SEND_EMAIL_ERROR": "Tapahtui virhe, yritä uudelleen",
+    "FORM": {
+      "SEND_TO_CONTACT": "Lähetä keskustelu asiakkaalle",
+      "SEND_TO_AGENT": "Lähetä keskustelu edustajalle",
+      "SEND_TO_OTHER_EMAIL_ADDRESS": "Lähetä keskustelu muuhun sähköpostiin",
+      "EMAIL": {
+        "PLACEHOLDER": "Anna sähköpostiosoite",
+        "ERROR": "Ole hyvä ja syötä validi sähköposti"
+      }
+    }
+  }
+}

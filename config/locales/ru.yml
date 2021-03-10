@@ -1,0 +1,68 @@
+#Files in the config/locales directory are used for internationalization
+#and are automatically loaded by Rails. If you want to use locales other
+#than English, add the necessary files in this directory.
+#To use the locales, use `I18n.t`:
+#I18n.t 'hello'
+#In views, this is aliased to just `t`:
+#<%= t('hello') %>
+#To use a different locale, set it with `I18n.locale`:
+#I18n.locale = :es
+#This would use the information in config/locales/es.yml.
+#The following keys must be escaped otherwise they will not be retrieved by
+#the default I18n backend:
+#true, false, on, off, yes, no
+#Instead, surround them with single quotes.
+#en:
+#'true': 'foo'
+#To learn more, please read the Rails Internationalization guide
+#available at https://guides.rubyonrails.org/i18n.html.
+ru:
+  hello: "Привет мир"
+  messages:
+    reset_password_success: Круто! Запрос на сброс пароля удался. Проверьте почту для получения инструкций.
+    reset_password_failure: Ой! Мы не смогли найти пользователя с указанным email.
+  errors:
+    signup:
+      disposable_email: Мы не разрешаем одноразовые почтовые ящики
+      invalid_email: Вы ввели неверный email
+      email_already_exists: "Вы уже зарегистрировались для учётной записи с %{email}"
+      failed: Ошибка регистрации
+  reports:
+    period: Отчётный период с %{since} по %{until}
+  notifications:
+    notification_title:
+      conversation_creation: "[New conversation] - #%{display_id} has been created in %{inbox_name}"
+      conversation_assignment: "[Assigned to you] - #%{display_id} has been assigned to you"
+      assigned_conversation_new_message: "[New message] - #%{display_id} %{content}"
+      conversation_mention: "You have been mentioned in conversation [ID - %{display_id}] by %{name}"
+  conversations:
+    messages:
+      deleted: Это сообщение было удалено
+    activity:
+      status:
+        resolved: "%{user_name} завершил диалог"
+        open: "%{user_name} открыл заново диалог"
+        auto_resolved: "Разговор был помечен системой решённым из-за неактивности в течение %{duration} дней"
+      assignee:
+        self_assigned: "%{user_name} назначил(а) разговор себе"
+        assigned: "%{user_name} назначил %{assignee_name} ответственным"
+        removed: "Ответственный снят %{user_name}"
+      labels:
+        added: "%{user_name} добавил %{labels}"
+        removed: "%{user_name} удалил %{labels}"
+      muted: "%{user_name} заглушил(а) этот разговор"
+      unmuted: "%{user_name} включил(а) уведомления для разговора"
+    templates:
+      greeting_message_body: "%{account_name} как правило отвечает в течении несколько часов."
+      ways_to_reach_you_message_body: "Оставьте ваш email для связи"
+      email_input_box_message_body: "Получать уведомления по email"
+    reply:
+      email_subject: "Новые сообщения в этом диалоге"
+      transcript_subject: "Субтитры общения"
+  integration_apps:
+    slack:
+      name: "Slack"
+      description: "Slack это сервис, который позволяет объединить рабочие коммуникации в одном месте. При интеграции с Slack вы будете получать уведомления обо всех новых разговорах прямо в Slack."
+    webhooks:
+      name: "Webhooks"
+      description: "События webhook позволяют получать информацию о происходящем в вашем аккаунте в реальном времени. Вы можете использовать webhook в связке с вашими приложениями, такими как Slack или Github. Нажмите на Настроить для настройки webhook."

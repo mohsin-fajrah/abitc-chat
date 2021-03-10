@@ -1,0 +1,33 @@
+{
+  "COMPONENTS": {
+    "FILE_BUBBLE": {
+      "DOWNLOAD": "تحميل",
+      "UPLOADING": "جاري الرفع..."
+    },
+    "FORM_BUBBLE": {
+      "SUBMIT": "إرسال"
+    }
+  },
+  "TEAM_AVAILABILITY": {
+    "ONLINE": "متواجدون لخدمتك",
+    "OFFLINE": "نحن غير متصلين"
+  },
+  "REPLY_TIME": {
+    "IN_A_FEW_MINUTES": "عادة نقوم بالرد خلال بضع دقائق",
+    "IN_A_FEW_HOURS": "عادة نقوم بالرد خلال بضع ساعات",
+    "IN_A_DAY": "عادة نقوم بالرد خلال يوم واحد"
+  },
+  "START_CONVERSATION": "ابدأ المحادثة",
+  "UNREAD_VIEW": {
+    "VIEW_MESSAGES_BUTTON": "عرض الرسائل الجديدة",
+    "CLOSE_MESSAGES_BUTTON": "أغلق"
+  },
+  "BUBBLE": {
+    "LABEL": "تحدث الينا"
+  },
+  "POWERED_BY": "مدعوم بواسطة تشات وت",
+  "EMAIL_PLACEHOLDER": "الرجاء إدخال بريدك الإلكتروني",
+  "CHAT_PLACEHOLDER": "أكتب رسالتك",
+  "TODAY": "اليوم",
+  "YESTERDAY": "الأمس"
+}

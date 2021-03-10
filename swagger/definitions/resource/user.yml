@@ -1,0 +1,27 @@
+type: object
+properties:
+  id:
+    type: number
+  uid:
+    type: string
+  name:
+    type: string
+  available_name:
+    type: string
+  display_name:
+    type: string
+  email:
+    type: string
+  account_id:
+    type: number
+  role:
+    type: string
+    enum: ['agent', 'administrator']
+  confirmed:
+    type: boolean
+  display_name:
+    type: string
+  accounts:
+    type: array
+    items:
+      $ref: '#/definitions/account'
